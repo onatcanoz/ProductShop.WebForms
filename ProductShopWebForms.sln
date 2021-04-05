@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductShopWebForms", "ProductShopWebForms\ProductShopWebForms.csproj", "{8AF96EBB-A40D-4602-A82E-F7FC1F20610A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{0F187F55-B94C-447E-9B15-707425425E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF96EBB-A40D-4602-A82E-F7FC1F20610A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF96EBB-A40D-4602-A82E-F7FC1F20610A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF96EBB-A40D-4602-A82E-F7FC1F20610A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF96EBB-A40D-4602-A82E-F7FC1F20610A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F187F55-B94C-447E-9B15-707425425E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F187F55-B94C-447E-9B15-707425425E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F187F55-B94C-447E-9B15-707425425E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F187F55-B94C-447E-9B15-707425425E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6977098-0874-4BA2-B37D-5C2717CF328A}
+	EndGlobalSection
+EndGlobal
